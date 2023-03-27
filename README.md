@@ -9,11 +9,17 @@
 <div align=center><h2>GitHub Info</h2></div>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=menuhwang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menuhwang&layout=compact">
+</div>
+<!--
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=menuhwang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </div>
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menuhwang&layout=compact">
 </div>
+-->
 
 <!--
 **menuhwang/menuhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
