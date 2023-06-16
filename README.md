@@ -1,37 +1,43 @@
-<div align=center><h2>Stack</h2></div>
-<div align=center>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=300&section=header&text=Minwoo%20Hwang's%20Github&fontSize=60&fontColor=404040"/>
 </div>
 
-<div align=center><h2>GitHub Info</h2></div>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=menuhwang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menuhwang&layout=compact">
+<br>
+
+## ✋ Introduction
+**혼자만의 성장보단 팀의 성장과 서비스의 성장을 추구하는 주니어 백엔드 개발자 황민우입니다.**
+- [이력서](https://menu-hwang.notion.site/bb691478ff3349bbb7259b2e527f3c16?pvs=4)
+
+<br>
+
+## 💻 Project
+#### [📚 BookMore[북: 모아]](https://github.com/menuhwang/book-more) (2023.01 ~ 2023.02)
+- SNS 스타일의 도서 리뷰 공유 플랫폼으로, 팔로잉/팔로워 기능, 랭킹 기능, 시각적인 효과의 리뷰가 중점적인 서비스
+
+#### [🔫 PUBG Analyzer](https://github.com/menuhwang/pubg-analyzer) (2023.03 ~ 진행중)
+- PUBG 배틀그라운드 매치 결과 조회 및 킬, 데미지 로그 분석 서비스
+
+## 💪🏻 Skills
+#### BE
+<img src="https://img.shields.io/badge/java-3a75b0?style=for-the-badge&logo=java&logoColor=white"></div>
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+
+#### DB
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></div>
+
+#### VCS
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></div>
+
+#### DevOps
+<img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white"></div>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+
+#### FE
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></div>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=100&section=footer"/>
 </div>
-<!--
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=menuhwang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</div>
-
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menuhwang&layout=compact">
-</div>
--->
-
-<!--
-**menuhwang/menuhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
