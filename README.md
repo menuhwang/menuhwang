@@ -11,11 +11,11 @@
 <br>
 
 ## 💻 Project
-#### [📚 BookMore[북: 모아]](https://github.com/menuhwang/book-more) (2023.01 ~ 2023.02)
-- SNS 스타일의 도서 리뷰 공유 플랫폼으로, 팔로잉/팔로워 기능, 랭킹 기능, 시각적인 효과의 리뷰가 중점적인 서비스
-
 #### [🔫 PUBG Analyzer](https://github.com/menuhwang/pubg-analyzer) (2023.03 ~ 2023.08)
 - PUBG 배틀그라운드 매치 결과 조회 및 킬, 데미지 로그 분석 서비스
+
+#### [📚 BookMore[북: 모아]](https://github.com/menuhwang/book-more) (2023.01 ~ 2023.02)
+- SNS 스타일의 도서 리뷰 공유 플랫폼으로, 팔로잉/팔로워 기능, 랭킹 기능, 시각적인 효과의 리뷰가 중점적인 서비스
 
 ## 💪🏻 Skills
 #### BE
