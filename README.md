@@ -6,7 +6,6 @@
 
 ## ✋ Introduction
 **혼자만의 성장보단 팀의 성장과 서비스의 성장을 추구하는 주니어 백엔드 개발자 황민우입니다.**
-- [이력서](https://menu-hwang.notion.site/bb691478ff3349bbb7259b2e527f3c16?pvs=4)
 
 <br>
 
